@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/signup-react/static/css/main.7d1a2e3d.chunk.css",
+    "main.js": "/signup-react/static/js/main.3dbc1687.chunk.js",
+    "main.js.map": "/signup-react/static/js/main.3dbc1687.chunk.js.map",
+    "runtime-main.js": "/signup-react/static/js/runtime-main.97c5a1b1.js",
+    "runtime-main.js.map": "/signup-react/static/js/runtime-main.97c5a1b1.js.map",
+    "static/js/2.479e1705.chunk.js": "/signup-react/static/js/2.479e1705.chunk.js",
+    "static/js/2.479e1705.chunk.js.map": "/signup-react/static/js/2.479e1705.chunk.js.map",
+    "static/js/3.6ffa42ff.chunk.js": "/signup-react/static/js/3.6ffa42ff.chunk.js",
+    "static/js/3.6ffa42ff.chunk.js.map": "/signup-react/static/js/3.6ffa42ff.chunk.js.map",
+    "index.html": "/signup-react/index.html",
+    "static/css/main.7d1a2e3d.chunk.css.map": "/signup-react/static/css/main.7d1a2e3d.chunk.css.map",
+    "static/js/2.479e1705.chunk.js.LICENSE.txt": "/signup-react/static/js/2.479e1705.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97c5a1b1.js",
+    "static/js/2.479e1705.chunk.js",
+    "static/css/main.7d1a2e3d.chunk.css",
+    "static/js/main.3dbc1687.chunk.js"
+  ]
+}
